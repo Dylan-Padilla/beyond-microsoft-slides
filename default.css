@@ -30,7 +30,7 @@
 .title-slide {
 
     margin-top: -50px;
-    background-image: url('/Users/dpadil10/Downloads/imgs/YouTube_logo.png'), url('/Users/dpadil10/Downloads/imgs/ASN_logo-removebg-preview.png');
+    background-image: url('imgs/YouTube_logo.png'), url('imgs/ASN_logo-removebg-preview.png');
     background-size: 15%, 12%;
     background-position: top left, top right, center;
     background-repeat: no-repeat, no-repeat, no-repeat;
