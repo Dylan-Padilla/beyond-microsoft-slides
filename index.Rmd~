@@ -1,0 +1,63 @@
+---
+title: '<h1>The American Naturalist<br><br>Beyond Microsoft:<br>A Series of YouTube Shorts</h1>'
+author: <img src = 'imgs/Subject6.png' width=130px height=110px/><br><img src = 'imgs/Subject4.png' alt='Rotated Image' class='rotate-image' width=45px height=50px/>&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'imgs/Subject5.png' width=50px height=50px/>&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'imgs/Subject2.png' alt='Rotated Image' class='rotate-image2' width=50px height=50px/><br><img src = 'imgs/Subject1.png' width=50px height=50px/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'imgs/Subject3.png' width=50px height=50px/><br><br><br><br><br><br> Dylan Padilla | `r emo::ji('world')` [https://dylanpadilla.netlify.app/](https://dylanpadilla.netlify.app/)<br><b>ASN Graduate Council | `r emo::ji('world')` [https://asngrads.com/](https://asngrads.com/)</b><br>`r icon_style(fontawesome('envelope', style='solid'), scale=1, fill='gray')` dpadil10@asu.edu
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ['default', 'default.css']
+    seal: true
+    nature:
+      ratio: '16:9'
+      slideNumberFormat: '%current%' 
+      highlightStyle: ir-black
+      highlightLines: true
+      countIncrementalSlides: true
+---
+
+```{css, include = FALSE}
+
+
+.title-slide h1 {
+    
+    margin-top: -200px;
+    text-align: relative;
+    font-style: italic;
+    font-family: Georgia, serif;
+	background-color: transparent;
+
+
+}
+
+.title-slide {
+    margin-top: -200px;
+    background-image: url('imgs/YouTube_logo.png'), url('imgs/ASN_logo-removebg-preview.png');
+    background-size: 15%, 12%;
+    background-position: bottom left, bottom right, center;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    font-family: Georgia, serif;
+    color: #005825;
+    font-style: italic;
+    font-size: 50px;
+	background-color: #eddfba;
+	
+}
+
+.rotate-image {
+	/* Adjust the angle as needed */
+    transform: rotate(-35deg);
+}
+
+.rotate-image2 {
+	/* Adjust the angle as needed */
+    transform: rotate(45deg);
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+
+```
+
+
+## What is it?

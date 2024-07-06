@@ -1,0 +1,252 @@
+---
+title: 'The American Naturalist'
+subtitle: 'Beyond Microsoft: A Series of YouTube Shorts'
+author: <img src = '/Users/dpadil10/Downloads/imgs/Subject6.png' width=160px height=140px/><br><img src = '/Users/dpadil10/Downloads/imgs/Subject4.png' alt='Rotated Image' class='rotate-image' width=45px height=50px/>&nbsp;&nbsp;&nbsp;&nbsp;<img src = '/Users/dpadil10/Downloads/imgs/Subject5.png' width=50px height=50px/>&nbsp;&nbsp;&nbsp;&nbsp;<img src = '/Users/dpadil10/Downloads/imgs/Subject2.png' alt='Rotated Image' class='rotate-image2' width=50px height=50px/><br><img src = '/Users/dpadil10/Downloads/imgs/Subject1.png' width=50px height=50px/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = '/Users/dpadil10/Downloads/imgs/Subject3.png' width=50px height=50px/><br>Dylan Padilla | `r emo::ji('link')` [https://dylanpadilla.netlify.app/](https://dylanpadilla.netlify.app/)<br>ASN Graduate Council | `r emo::ji('link')` [https://asngrads.com/](https://asngrads.com/)<br>`r icon_style(fontawesome('envelope', style='solid'), scale=1, fill='gray')` dpadil10@asu.edu
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ['default', 'default.css']
+    seal: true
+    nature:
+      ratio: '16:9'
+      slideNumberFormat: '%current%' 
+      highlightStyle: ir-black
+      highlightLines: true
+      countIncrementalSlides: true
+---
+
+```{css, include = FALSE}
+
+.title-slide h1 {
+    
+    margin-top: -50px;
+    font-style: italic;
+    font-family: Georgia, serif;
+	background-color: transparent;
+
+
+}
+
+.title-slide {
+
+    margin-top: -50px;
+    background-image: url('/Users/dpadil10/Downloads/imgs/YouTube_logo.png'), url('/Users/dpadil10/Downloads/imgs/ASN_logo-removebg-preview.png');
+    background-size: 15%, 12%;
+    background-position: top left, top right, center;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    font-family: Georgia, serif;
+    color: #005825;
+    font-style: italic;
+    font-size: 70px;
+    background-color: #FBF7D3;
+	
+}
+
+
+.rotate-image {
+	/* Adjust the angle as needed */
+    transform: rotate(-35deg);
+}
+
+.rotate-image2 {
+	/* Adjust the angle as needed */
+    transform: rotate(45deg);
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+
+```
+
+## ASN Graduate Council Mixer
+
+<center>
+<img src = '/Users/dpadil10/Downloads/imgs/mixer-albuquerque.png' width = 530 height = 400 />
+<img src = '/Users/dpadil10/Downloads/imgs/booth.png' width = 490 height = 400 />
+</center>
+
+The ASN Graduate Council is commited to developing initiatives to provide more valuable services to its student members
+
+
+???
+The Graduate Council actively participates in planning and assisting with these outreach efforts. Duties may include planning a graduate student activity at the annual meeting, assisting with developing a web-based community (blogs, discussion boards, and job services), planning science workshops aimed primarily at students that further the core goals of the Society (integration across the biological sciences)...
+  
+---
+
+## A new way to connect with the public
+
+.pull-left[
+<center>
+<img src = '/Users/dpadil10/Downloads/imgs/demonstration-short-edited.gif' width = 300 height = 520/>
+</center> 
+]
+
+.pull-right[
+
+
+
+]
+
+
+???
+The idea is to provide a new way for the ASN Graduate Council to connect with all scientists using just a smartphone, tablet, or laptop through the YouTube app.
+
+
+
+---
+
+## A new way to connect with the public
+
+.pull-left[
+<center>
+<img src = '/Users/dpadil10/Downloads/imgs/demonstration-short-edited.gif' width = 300 height = 520/>
+</center> 
+]
+
+.pull-right[
+
+<br>
+
+- YouTube Shorts offers us the ability to interact with viewers by responding to comments with additional videos
+
+- With stickers through formats such as Q&As
+
+]
+
+
+???
+The idea is to provide a new way for the ASN Graduate Council to connect with all scientists using just a smartphone, tablet, or laptop through the YouTube app.
+
+
+---
+
+## A new way to connect with the public
+
+.pull-left[
+<center>
+<img src = '/Users/dpadil10/Downloads/imgs/demonstration-short-edited.gif' width = 300 height = 520/>
+</center> 
+]
+
+.pull-right[
+
+<br>
+
+- YouTube Shorts offers us the ability to interact with viewers by responding to comments with additional videos
+
+- With stickers through formats such as Q&As
+
+- Expecting a moderate level of engagement with the public
+
+]
+
+???
+The idea is to provide a new way for the ASN Graduate Council to connect with all scientists using just a smartphone, tablet, or laptop through the YouTube app.
+
+
+---
+
+## A new way to connect with the public
+
+.pull-left[
+<center>
+<img src = '/Users/dpadil10/Downloads/imgs/demonstration-short-edited.gif' width = 300 height = 520/>
+</center> 
+]
+
+.pull-right[
+<center>
+<img src = '/Users/dpadil10/Downloads/imgs/comment-edited.gif' width = 300 height = 520/>
+</center> 
+]
+
+???
+The idea is to provide a new way for the ASN Graduate Council to connect with all scientists using just a smartphone, tablet, or laptop through the YouTube app.
+
+---
+
+## Beyond Microsoft
+
+.pull-left[
+<center>
+<br>
+<img src = '/Users/dpadil10/Downloads/imgs/microsoft.png' width = 600 height = 380>
+</center>
+
+]
+
+
+---
+
+
+## Have freedom in your computing
+
+.pull-left[
+<center>
+<br>
+<img src = '/Users/dpadil10/Downloads/imgs/microsoft.png' width = 600 height = 380>
+</center>
+
+]
+
+.pull-right[
+
+<center>
+<br>
+<img src = '/Users/dpadil10/Downloads/imgs/stallman.jpg' width = 600 height = 380>
+</center>
+
+Richard Stallman
+
+]
+
+---
+
+## Beyond Microsoft
+
+.pull-left[
+<center>
+<img src = '/Users/dpadil10/Downloads/imgs/tools.png' width = 500 height = 500>
+</center>
+]
+
+.pull-right[
+
+<img src = '/Users/dpadil10/Downloads/imgs/html.png' width = 190, height = 200>
+<img src = '/Users/dpadil10/Downloads/imgs/css.png' width = 170, height = 175>
+<img src = '/Users/dpadil10/Downloads/imgs/typst.png' width = 150, height = 150>
+<img src = '/Users/dpadil10/Downloads/imgs/R.png' width = 180, height = 180>
+
+]
+
+---
+
+## This is what it looks like
+
+
+<center>
+<img src = '/Users/dpadil10/Downloads/imgs/trailer1.gif' width = 300 height = 520/>
+<img src = '/Users/dpadil10/Downloads/imgs/trailer2.gif' width = 300 height = 520/>
+<img src = '/Users/dpadil10/Downloads/imgs/trailer3.gif' width = 300 height = 520/>
+</center> 
+
+
+---
+
+
+## Here is what you should know and do
+
+<br>
+
+
+- We are going to release two videos weekly, one on Tuesdays and the other one on Thursdays, starting in August 2024
+
+- Subscribe to the [American Society of Naturalis YouTube Channel](https://www.youtube.com/channel/UC8FDICm2TYLT-y1FB8gcQlA) at `r emo::ji('link')`https://www.youtube.com/channel/UC8FDICm2TYLT-y1FB8gcQlA
+
+- Follow us on [X or Twitter ](https://x.com/asngrads) at `r emo::ji('link')`https://x.com/asngrads
+
+
+Happy Computing!!! `r emo::ji('computer')`
+
