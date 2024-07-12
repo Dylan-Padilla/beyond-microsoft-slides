@@ -334,12 +334,108 @@ Perform academic tasks researchers carry out on a daily basis
 
 ---
 
+## Why YouTube?
+
+.pull-left[
+<center>
+<img src = 'imgs/YouTube-page.png' width = 480 height = 520/>
+</center>
+]
+
+---
+
+## Why YouTube?
+
+.pull-left[
+<center>
+<img src = 'imgs/YouTube-page.png' width = 480 height = 520/>
+</center>
+]
+
+
+.pull-right[
+
+YouTube Shorts presents user-generated vertical or square videos up to 60 seconds long
+
+]
+
+---
+
+## Why YouTube?
+
+.pull-left[
+<center>
+<img src = 'imgs/YouTube-page.png' width = 480 height = 520/>
+</center>
+]
+
+
+.pull-right[
+
+YouTube Shorts presents user-generated vertical or square videos up to 60 seconds long
+<br><br>
+It allows users to add licensed music and on-screen captions
+
+]
+
+---
+
+## Why YouTube?
+
+.pull-left[
+<center>
+<img src = 'imgs/YouTube-page.png' width = 480 height = 520/>
+</center>
+]
+
+
+.pull-right[
+
+YouTube Shorts presents user-generated vertical or square videos up to 60 seconds long
+<br><br>
+It allows users to add licensed music and on-screen captions
+<br><br>
+Viewers can scroll through an endless feed of videos algorithmically tailored for the user
+
+]
+
+---
+
+## Why YouTube?
+
+.pull-left[
+<center>
+<img src = 'imgs/YouTube-page.png' width = 480 height = 520/>
+</center>
+]
+
+
+.pull-right[
+
+YouTube Shorts presents user-generated vertical or square videos up to 60 seconds long
+<br><br>
+It allows users to add licensed music and on-screen captions
+<br><br>
+Viewers can scroll through an endless feed of videos algorithmically tailored for the user
+<br><br>
+Although intended to be watched on smartphones, YouTube Shorts can be viewed on all other devices
+
+]
+
+---
+
+## No ads!
+
+<img src='https://gifdb.com/images/high/excited-shaquille-o-neal-3isxv4tbjeeb3fej.webp'/>
+
+---
+
 ## This is what it looks like
 
 
 <center>
 <img src = 'imgs/trailer1.gif' width = 300 height = 520/>
-<img src = 'imgs/trailer2.gif' width = 300 height = 520/>
+ <img src = 'imgs/trailer2.gif' width = 300 height = 520/>
 <img src = 'imgs/trailer3.gif' width = 300 height = 520/>
 </center> 
 
