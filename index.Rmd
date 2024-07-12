@@ -85,6 +85,11 @@ The Graduate Council actively participates in planning and assisting with these 
 
 .pull-right[
 
+- Go to the App Store if you have an IOS device or to the Play Store if you have an Android
+
+- On the search bar, type 'YouTube' and download the App
+
+- Sign in using your email account and you'll be ready to go!
 
 
 ]
@@ -101,7 +106,7 @@ The idea is to provide a new way for the ASN Graduate Council to connect with al
 
 .pull-left[
 <center>
-<img src = 'imgs/demonstration-short-edited.gif' width = 300 height = 520/>
+<img src = 'imgs/comment-edited.gif' width = 300 height = 520/>
 </center> 
 ]
 
@@ -126,7 +131,7 @@ The idea is to provide a new way for the ASN Graduate Council to connect with al
 
 .pull-left[
 <center>
-<img src = 'imgs/demonstration-short-edited.gif' width = 300 height = 520/>
+<img src = 'imgs/comment-edited.gif' width = 300 height = 520/>
 </center> 
 ]
 
@@ -148,22 +153,21 @@ The idea is to provide a new way for the ASN Graduate Council to connect with al
 
 ---
 
-## A new way to connect with the public
+## Beyond Microsoft
 
 .pull-left[
 <center>
-<img src = 'imgs/demonstration-short-edited.gif' width = 300 height = 520/>
-</center> 
+<br>
+<img src = 'imgs/microsoft.png' width = 600 height = 380>
+</center>
+
 ]
 
 .pull-right[
-<center>
-<img src = 'imgs/comment-edited.gif' width = 300 height = 520/>
-</center> 
+<img src = 'imgs/typst_inset.png' width = 170 height = 220>
 ]
 
-???
-The idea is to provide a new way for the ASN Graduate Council to connect with all scientists using just a smartphone, tablet, or laptop through the YouTube app.
+Perform academic tasks researchers carry out on a daily basis
 
 ---
 
@@ -177,11 +181,16 @@ The idea is to provide a new way for the ASN Graduate Council to connect with al
 
 ]
 
+.pull-right[
+<img src = 'imgs/typst_inset.png' width = 170 height = 220>
+<img src = 'imgs/poster_photo.png' width = 170 height = 220>
+]
+
+Perform academic tasks researchers carry out on a daily basis
 
 ---
 
-
-## Have freedom in your computing
+## Beyond Microsoft
 
 .pull-left[
 <center>
@@ -192,15 +201,12 @@ The idea is to provide a new way for the ASN Graduate Council to connect with al
 ]
 
 .pull-right[
-
-<center>
-<br>
-<img src = 'imgs/stallman.jpg' width = 600 height = 380>
-</center>
-
-Richard Stallman
-
+<img src = 'imgs/typst_inset.png' width = 170 height = 220>
+<img src = 'imgs/poster_photo.png' width = 170 height = 220>
+<img src = 'imgs/ezgif.com-video-to-gif-converter.gif' width = 140 height = 220>
 ]
+
+Perform academic tasks researchers carry out on a daily basis
 
 ---
 
@@ -208,16 +214,121 @@ Richard Stallman
 
 .pull-left[
 <center>
+<br>
+<img src = 'imgs/microsoft.png' width = 600 height = 380>
+</center>
+
+]
+
+.pull-right[
+<img src = 'imgs/typst_inset.png' width = 170 height = 220>
+<img src = 'imgs/poster_photo.png' width = 170 height = 220>
+<img src = 'imgs/ezgif.com-video-to-gif-converter.gif' width = 140 height = 220>
+<img src = 'imgs/ezgif.com-crop.gif' width = 250 height = 150>
+]
+
+Perform academic tasks researchers carry out on a daily basis
+
+---
+
+## Beyond Microsoft
+
+.pull-left[
+<center>
+<br>
 <img src = 'imgs/tools.png' width = 500 height = 500>
 </center>
+
 ]
 
 .pull-right[
 
+<center>
 <img src = 'imgs/html.png' width = 190, height = 200>
-<img src = 'imgs/css.png' width = 170, height = 175>
-<img src = 'imgs/typst.png' width = 150, height = 150>
-<img src = 'imgs/R.png' width = 180, height = 180>
+</center> 
+
+
+]
+
+<br>
+
+Perform academic tasks researchers carry out on a daily basis
+
+---
+
+## Beyond Microsoft
+
+.pull-left[
+<center>
+<br>
+<img src = 'imgs/tools.png' width = 500 height = 500>
+</center>
+
+]
+
+.pull-right[
+
+<center>
+<img src = 'imgs/html.png' width = 190 height = 200>
+<img src = 'imgs/css.png' width = 170 height = 175>
+</center> 
+
+
+]
+
+<br>
+
+Perform academic tasks researchers carry out on a daily basis
+
+---
+
+## Beyond Microsoft
+
+.pull-left[
+<center>
+<br>
+<img src = 'imgs/tools.png' width = 500 height = 500>
+</center>
+
+]
+
+.pull-right[
+
+<center>
+<img src = 'imgs/html.png' width = 190 height = 200>
+<img src = 'imgs/css.png' width = 170 height = 175>
+<img src = 'imgs/typst.png' width = 150 height = 150>
+</center> 
+
+
+]
+
+<br>
+
+Perform academic tasks researchers carry out on a daily basis
+
+---
+
+## Beyond Microsoft
+
+.pull-left[
+<center>
+<br>
+<img src = 'imgs/tools.png' width = 500 height = 500>
+</center>
+
+]
+
+.pull-right[
+
+<center>
+<img src = 'imgs/html.png' width = 190 height = 200>
+<img src = 'imgs/css.png' width = 170 height = 175>
+<img src = 'imgs/typst.png' width = 150 height = 150>
+<br><br><br>
+<img src = 'imgs/R.png' width = 170 height = 150>
+</center> 
+
 
 ]
 
@@ -235,6 +346,16 @@ Richard Stallman
 
 ---
 
+## Have freedom in your computing
+
+<center>
+<br>
+<img src = 'imgs/stallman.jpg' width = 600 height = 380>
+</center>
+
+Richard Stallman
+
+---
 
 ## Here is what you should know and do
 
