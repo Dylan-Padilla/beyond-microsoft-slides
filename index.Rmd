@@ -460,7 +460,7 @@ Richard Stallman
 
 - We are going to release two videos weekly, one on Tuesdays and the other one on Thursdays, starting in August 2024
 
-- Subscribe to the [American Society of Naturalis YouTube Channel](https://www.youtube.com/channel/UC8FDICm2TYLT-y1FB8gcQlA) at `r emo::ji('link')`https://www.youtube.com/channel/UC8FDICm2TYLT-y1FB8gcQlA
+- Subscribe to the [American Society of Naturalists YouTube Channel](https://www.youtube.com/channel/UC8FDICm2TYLT-y1FB8gcQlA) at `r emo::ji('link')`https://www.youtube.com/channel/UC8FDICm2TYLT-y1FB8gcQlA
 
 - Follow us on [X or Twitter ](https://x.com/asngrads) at `r emo::ji('link')`https://x.com/asngrads
 
